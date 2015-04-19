@@ -1,0 +1,12 @@
+Django==1.8
+
+gunicorn==19.3.0
+
+psycopg2==2.6
+
+docker-py
+PyYAML==3.11
+
+djangorestframework
+django-extensions
+django-grappelli
